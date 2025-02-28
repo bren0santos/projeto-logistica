@@ -88,5 +88,5 @@ Sinta-se à vontade para contribuir com melhorias no projeto! Para isso:
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
-Desenvolvido com 💡 por [Seu Nome](https://github.com/bren0santos) 🚀
+Desenvolvido com 💡 por [Breno Santos](https://github.com/bren0santos) 🚀
 
