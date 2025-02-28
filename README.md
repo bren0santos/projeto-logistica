@@ -55,7 +55,7 @@ Isso criará um arquivo `.zip` com notas de entrega simuladas.
 ### 4️⃣ Executar o Script Principal
 Para analisar os arquivos Excel e `.zip`:
 ```bash
-python preenchimento_tabela.py
+python preenchimentoTabela_logistica.py
 ```
 Isso abrirá a interface gráfica onde você pode selecionar os arquivos para análise.
 
